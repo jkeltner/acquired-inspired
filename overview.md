@@ -1,18 +1,18 @@
-# Podcast Overview
+# Backbone: From Breakthrough to Built-In
 
 ## Concept
 
 A podcast exploring the technological innovations that quietly shape modern life—how they were discovered, how they spread (and who resisted), and the ripple effects that followed.
 
-**Core Differentiator:** While shows like Acquired focus on companies and deals, this show focuses on *innovations themselves*—industry-wide shifts that changed how the world works, regardless of which company "won."
+**Core Differentiator:** While shows like Acquired focus on companies and deals, Backbone focuses on *innovations themselves*—industry-wide shifts that changed how the world works, regardless of which company "won."
 
-**The Unique Angle:** Most tech podcasts skip from "invention" to "winner." This show emphasizes the messy middle—the *diffusion*: resistance, timing, complementary technologies, and the moment something crossed from novelty to inevitability.
+**The Unique Angle:** Most tech podcasts skip from "invention" to "winner." Backbone emphasizes the messy middle—the *diffusion*: resistance, timing, complementary technologies, and the moment something crossed from novelty to inevitability.
 
 ---
 
 ## Format
 
-**Hosts:** Jeff and Cyrus
+**Hosts:** Jeff Keltner and Cyrus Mistry
 
 **Episode Length:** 90-120 minutes
 
@@ -43,28 +43,31 @@ People curious about how the modern world actually works—the hidden systems an
 
 ---
 
-## Name Ideas
+## Podcast Description
 
-*Favorites:*
-- How the Modern World Works
-- Second-Order
-- The Diffusion Curve
-- Hidden in Plain Sight
+Every technology you rely on today was once unimaginable. You flip a switch and the lights come on. You turn a tap and clean water flows. But how did any of this become normal? Backbone traces the innovations that built modern life — from the messy human stories behind their discovery, through the resistance and lucky breaks that shaped how they spread, to the consequences nobody saw coming. Hosted by Jeff Keltner and Cyrus Mistry.
 
-*Other candidates:*
-- Everyday Miracles / Modern Miracles
-- The World After
-- After the Breakthrough
-- The Backbone
-- Built Into Life
-- The Plumbing of the World
+---
+
+## Branding
+
+**Name:** Backbone
+**Tagline:** From Breakthrough to Built-In
+
+**Color Palette:**
+- Primary background: Dark navy (#0A1628)
+- Accent/highlights: Warm gold (#D4A84B)
+- Text: White or off-white
+- Secondary accent: Muted steel blue (sparingly)
+
+**Visual Identity:**
+- Cover art (podcast apps): Bold typographic lockup — "BACKBONE" in heavy industrial sans-serif on dark navy, with the "O" as a minimalist gear icon. Tagline below in lighter weight.
+- Extended brand mark (website/social/video): Illustrated vertical spine where each vertebra is a minimalist icon of a different innovation (microchip, satellite dish, shipping container, etc.), paired with the same typeface. Warm gold icons on dark navy.
 
 ---
 
 ## Open Questions
 
-- Final name decision
 - Intro/outro format (cold open? music? tagline?)
-- Visual branding and cover art
 - Where to host (Spotify for Podcasters, Transistor, etc.)
 - Social presence (Twitter/X, YouTube clips, etc.)

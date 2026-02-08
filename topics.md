@@ -1,34 +1,25 @@
 # Episode Topics
 
-## Pilot Candidates ⭐
+## Pilot Episode
 
-Strong choices for the first episode—accessible, dramatic, not over-covered:
-
-| Topic | Why It Works |
-|-------|--------------|
-| **Refrigeration** | Visceral "before" (ice houses, spoiled food). Strong resistance story (ice industry). Huge societal impacts (diet, urbanization, global food trade). Accessible to everyone. |
-| **Shipping Containers** | Clear systems-thinking story. Fascinating resistance (unions, port politics). *The Box* by Levinson is a roadmap. Explains globalization. |
-| **GPS** | Everyone uses it daily, few know the story. Cold War origins, KAL 007, selective availability controversy. Ongoing societal impacts (Uber, delivery, military). |
-| **Elevators** | Counterintuitively compelling. Inverted urban real estate, enabled skyscrapers. Otis's dramatic safety demo (1854 World's Fair). |
-| **Air Conditioning** | Reshaped where Americans live (Sun Belt). Changed architecture, productivity. Willis Carrier's story. Climate implications. |
+**Refrigeration** — Visceral "before" (ice houses, spoiled food). Strong resistance story (ice industry). Huge societal impacts (diet, urbanization, global food trade). Accessible to everyone.
 
 ---
 
-## Full Topic List
+## Future Topics
 
 ### Infrastructure & Systems
-- Refrigeration ⭐
-- Shipping Containers ⭐
-- Air Conditioning ⭐
-- Elevators ⭐
+- Shipping Containers
+- Air Conditioning
+- Elevators
 - Plumbing / Indoor Sanitation
 - Railroads
 - The Electrical Grid
 
 ### Communication & Computing
-- GPS ⭐
+- GPS
 - The Internet (origins, ARPANET → commercialization)
-- The Transistor (technical—save for later)
+- The Transistor
 - Fiber Optic Cable
 - Search Engines
 - Mobile Phones → Smartphones
@@ -36,7 +27,6 @@ Strong choices for the first episode—accessible, dramatic, not over-covered:
 ### Transportation
 - Cars / Internal Combustion
 - Airplanes / Commercial Aviation
-- Railroads (could overlap with Infrastructure)
 
 ### Health & Medicine
 - Antibiotics
@@ -44,14 +34,14 @@ Strong choices for the first episode—accessible, dramatic, not over-covered:
 - Anesthesia
 - Germ Theory / Sanitation
 
-### Digital Era (more recent, potentially controversial)
+### Digital Era
 - Social Media / The Feed
 - Digital Advertising
 - App Stores / Mobile Ecosystems
 - UGC Platforms (YouTube, etc.)
 
-### Future / Emerging (incomplete stories—wait until more clarity)
-- AI/ML (too early, story still unfolding)
+### Emerging (stories still unfolding)
+- AI/ML
 - mRNA Technology
 - Gene Editing / CRISPR
 - Space Travel (commercialization)

@@ -7,13 +7,19 @@
 
 ## How to Use This Document
 
-This is the raw research file. It's organized by episode section and designed to be comprehensive—more is better. Key sources and standout findings are highlighted with ⭐ to help you identify the best material.
+This is the raw research file for "Backbone: From Breakthrough to Built-In." It's organized by topic area (not by episode structure yet) so you can gather material comprehensively before defining the wave boundaries.
+
+**Key principles:**
+- More material is better than less at this stage
+- Highlight best findings with ⭐ to flag standout research
+- This feeds into the Wave Mapping section, which then becomes Episode Notes and Script
 
 **Workflow:**
-1. Claude compiles initial research here
+1. Claude compiles initial research by topic area
 2. Jeff/Cyrus review, request deeper dives on specific areas
 3. All refinements get added to this document
-4. This feeds into Episode Notes (your synthesis) and then the Script
+4. Wave Mapping section identifies natural 2-4 wave boundaries
+5. This structure then feeds into Episode Notes and Script
 
 ---
 
@@ -38,45 +44,43 @@ This is the raw research file. It's organized by episode section and designed to
 
 ---
 
-## INTRO: The Hook
+## Scale & Impact
 
-### By the Numbers
+*Make this vivid and concrete. These statistics should make someone say "wait, really?"*
 
-*Current scale and impact statistics. These should make someone say "wait, really?"*
-
-#### Scale & Adoption
+### Scale & Adoption
 -
 
-#### Economic Impact
+### Economic Impact
 -
 
-#### Physical Scale
+### Physical Scale
 -
 
-#### Comparisons & Context
+### Comparisons & Context
 *Make numbers tangible—comparisons, per-person framing, historical contrasts.*
 -
 
-**⭐ Best stats for the hook:**
+**⭐ Best stats for opening/hook:**
 -
 
 ---
 
-### The World Before
+## The World Before
 
-*What life looked like without this. Anchor in lived experience—friction, cost, constraints.*
+*What life looked like without this. Anchor in lived experience—friction, cost, constraints. Paint the picture.*
 
-#### Daily Life & Workarounds
+### Daily Life & Workarounds
 -
 
-#### Costs (Time, Money, Effort)
+### Costs (Time, Money, Effort)
 -
 
-#### Who Was Excluded
+### Who Was Excluded or Disadvantaged
 -
 
-#### Contemporary Accounts
-*Quotes or descriptions from the era.*
+### Contemporary Accounts
+*Quotes, diaries, newspaper descriptions from the era.*
 -
 
 **⭐ Most vivid "before" details:**
@@ -84,129 +88,69 @@ This is the raw research file. It's organized by episode section and designed to
 
 ---
 
-## ACT 1: Discovery & Invention
+## Key Figures & People
 
-### Key Figures
+*Inventors, researchers, rivals, collaborators, funders. Resist the lone genius narrative. Look for diverse contributors.*
 
-*Inventors, researchers, rivals, collaborators, funders. Resist the lone genius narrative.*
+### Primary Figures
+| Person | Role/Title | Key Details | Timeline | Sources |
+|--------|-----------|------------|----------|---------|
+| | | | | |
 
-#### Primary Figures
-| Person | Role | Key Details | Sources |
-|--------|------|-------------|---------|
+### Secondary Figures (Often Overlooked)
+| Person | Role/Title | Key Details | Timeline | Sources |
+|--------|-----------|------------|----------|---------|
+| | | | | |
+
+### Institutions & Funding Sources
+-
+
+### Rivalries & Collaborations
+*How did people work together or against each other?*
+-
+
+**⭐ Most compelling character details/stories:**
+-
+
+---
+
+## Timeline of Key Events
+
+*Chronology of invention, commercialization, and diffusion.*
+
+| Date | Milestone | Significance | Sources |
+|------|-----------|--------------|---------|
+| | | | |
+| | | | |
 | | | | |
 
-#### Secondary Figures (Often Overlooked)
-| Person | Role | Key Details | Sources |
-|--------|------|-------------|---------|
-| | | | |
-
-#### Institutions & Funders
--
-
-**⭐ Most compelling character details:**
--
-
----
-
-### Failed Attempts & Dead Ends
-
-*Earlier attempts that didn't work. Shows the invention wasn't inevitable.*
-
-#### Promising Approaches That Failed
-| Attempt | When | Why It Failed | Sources |
-|---------|------|---------------|---------|
-| | | | |
-
-#### The "Almost" Moments
-*Who got close? What did they miss?*
--
-
-**⭐ Best "almost didn't happen" story:**
--
-
----
-
-### The Breakthrough
-
-#### The Key Insight
-*What was the technical or conceptual leap?*
--
-
-#### Why This Attempt Succeeded
-*What was different this time?*
--
-
-#### The Moment (If There Was One)
-*The actual discovery—serendipity, accidents, "aha" moments.*
--
-
-#### Early Skepticism
-*Who didn't believe it? What were their objections?*
--
-
-**⭐ Best breakthrough story details:**
--
-
----
-
-### How It Works
-
-*Mental model, not engineering. What capability did this unlock?*
-
-#### Core Mechanism (Simplified)
--
-
-#### What This Made Possible
--
-
-#### Simple Analogy
--
-
-**Note:** Keep this section SHORT in the final episode (5 min max).
-
----
-
-## ACT 2: Diffusion
-
-### Timeline
-
-*Chronology from invention to ubiquity.*
-
-| Date | Milestone | Significance |
-|------|-----------|--------------|
-| | Invention/Discovery | |
-| | First practical application | |
-| | First commercial use | |
-| | Early adopters | |
-| | Tipping point | |
-| | Mass adoption | |
-| | Near-universal | |
-
-#### Pace of Adoption
+### Pace of Adoption
 *Was this a slow burn or rapid explosion? Why?*
 -
 
 ---
 
-### Resistance & Blockers
+## Resistance & Blockers
 
 *Who fought adoption and why? Their arguments were often more reasonable than we remember.*
 
-#### Incumbent Industries
-| Who | Their Stake | Their Arguments | How They Fought | Sources |
-|-----|-------------|-----------------|-----------------|---------|
-| | | | | |
+### Incumbent Industries & Vested Interests
+| Who | Their Stake | Their Arguments | How They Fought | Outcome | Sources |
+|-----|-------------|-----------------|-----------------|---------|---------|
+| | | | | | |
 
-#### Regulatory & Legal Barriers
+### Regulatory & Legal Barriers
 -
 
-#### Safety Concerns (Real and Manufactured)
+### Safety Concerns (Real and Manufactured)
 -
 
-#### Cultural Resistance
+### Cultural Resistance
+*What cultural values or practices felt threatened?*
 -
 
-#### How Resistance Was Overcome
+### How Resistance Was Overcome
+*What finally broke the logjam?*
 -
 
 **⭐ Best resistance stories:**
@@ -214,74 +158,73 @@ This is the raw research file. It's organized by episode section and designed to
 
 ---
 
-### Enabling Conditions
+## Enabling Conditions
 
-*Why did this take off when it did, not earlier or later?*
+*Why did this take off when it did, not earlier or later? What had to be true first?*
 
-#### Complementary Technologies Required
-| Technology | Why It Was Needed | When It Arrived |
-|------------|-------------------|-----------------|
-| | | |
-
-#### Infrastructure Dependencies
--
-
-#### Economic Conditions
--
-
-#### Institutional/Regulatory Changes
--
-
-#### Workforce/Skills Required
--
-
----
-
-### The Tipping Point
-
-*The moment it became clear this would win.*
-
-#### What Changed
-*A killer app? Price threshold? Cultural shift? Specific event?*
--
-
-#### Key Companies/Products
-| Company/Product | Role in Tipping Point | Sources |
-|-----------------|----------------------|---------|
-| | | |
-
-**⭐ The narrative turn:**
--
-
----
-
-### Companies & Competition
-
-*Key players in commercialization. Not an Acquired-style deep dive, but companies are part of the story.*
-
-#### Early Movers
-| Company | Strategy | Outcome | Sources |
-|---------|----------|---------|---------|
+### Complementary Technologies Required
+| Technology | Why It Was Needed | When It Arrived | Sources |
+|------------|-------------------|-----------------|---------|
 | | | | |
 
-#### Winners & Why
+### Infrastructure Dependencies
+*What physical, institutional, or informational infrastructure had to exist first?*
 -
 
-#### Losers & Why
+### Economic Conditions
+*Pricing, labor costs, investment availability, market size?*
 -
 
-#### Business Model Innovations
+### Regulatory or Institutional Changes
+*Did laws, standards, or institutions need to change first?*
+-
+
+### Workforce & Skills
+*What new skills or training became available?*
+-
+
+**⭐ Most critical enabling conditions:**
 -
 
 ---
 
-## ACT 3: Aftermath
+## The Breakthrough(s)
+
+*The key technical or conceptual leaps. (Note: There may be multiple breakthroughs, not just one.)*
+
+### The Central Insight
+*What was the core technical or conceptual leap?*
+-
+
+### Why This Attempt Succeeded
+*What was different this time? What had changed?*
+-
+
+### The Moment(s)
+*If there was a specific discovery/event: the accident, serendipity, "aha" moment.*
+-
+
+### Early Skepticism & Why
+*Who didn't believe it? What were their legitimate doubts?*
+-
+
+### How It Works (Simplified)
+*Mental model, not engineering spec. What capability did this unlock?*
+-
+
+**⭐ Best breakthrough story details:**
+-
+
+---
+
+## Consequences & Structural Changes
+
+*First-order and second-order effects. The obvious wins and the deeper shifts.*
 
 ### Immediate Consequences
+*What people noticed right away.*
 
-*First-order effects people noticed right away.*
-
-#### Productivity/Efficiency Gains
+#### Productivity & Efficiency Gains
 -
 
 #### Cost Changes
@@ -321,7 +264,7 @@ This is the raw research file. It's organized by episode section and designed to
 -
 
 #### The Losers' Perspective
-*Were they foolish or unlucky? Give them their context.*
+*Were they foolish or unlucky? Give them their context and dignity.*
 -
 
 **⭐ Best winner/loser stories:**
@@ -329,19 +272,18 @@ This is the raw research file. It's organized by episode section and designed to
 
 ---
 
-### Structural Changes
-
+### Deeper Structural Shifts
 *Second-order effects that unfolded over time. Often more important than the obvious ones.*
 
-#### Labor Markets
-*New jobs, displaced jobs, changed skills.*
+#### Labor Markets & Skills
+*New jobs created, jobs displaced, skills transformed.*
 -
 
 #### Geography & Urbanization
 -
 
 #### Inequality & Access
-*Who benefited? Who was left out?*
+*Who benefited? Who was left behind or harmed?*
 -
 
 #### New Industries Created
@@ -350,7 +292,7 @@ This is the raw research file. It's organized by episode section and designed to
 #### Cultural & Social Changes
 -
 
-#### Regulation & Governance
+#### Regulation & Governance Evolution
 -
 
 **⭐ Most significant structural shifts:**
@@ -358,32 +300,62 @@ This is the raw research file. It's organized by episode section and designed to
 
 ---
 
-### The Numbers (Revisited)
+## Anchor Story Candidates
 
-*Adoption curves and trajectory data to bookend with the intro.*
+**These are the hardest to find and most valuable.** An anchor story is a specific, vivid, short-form narrative (named person, date, place) that captures larger dynamics in miniature. It should be:
+- Specific enough to tell: person's name, actual date, actual location
+- Representative of a broader theme
+- Emotionally resonant or surprising
+- Verifiable from good sources
 
-#### Adoption Over Time
-| Year | Metric | Value | Source |
-|------|--------|-------|--------|
-| | | | |
+### Candidate Stories
 
-#### Cost Decline
-| Year | Cost | Context | Source |
-|------|------|---------|--------|
-| | | | |
+#### Story 1
+- **Who:** [Name]
+- **When:** [Date/Year]
+- **Where:** [Location]
+- **What Happened:** [The story in 2-3 sentences]
+- **Why It Matters:** [What larger dynamic does this represent?]
+- **Verification Status:** [Sources confirming this story]
+- **Best Source:** [Where to read the full version]
 
-#### Scale Growth
+#### Story 2
+- **Who:** [Name]
+- **When:** [Date/Year]
+- **Where:** [Location]
+- **What Happened:** [The story in 2-3 sentences]
+- **Why It Matters:** [What larger dynamic does this represent?]
+- **Verification Status:** [Sources confirming this story]
+- **Best Source:** [Where to read the full version]
+
+#### Story 3
+- **Who:** [Name]
+- **When:** [Date/Year]
+- **Where:** [Location]
+- **What Happened:** [The story in 2-3 sentences]
+- **Why It Matters:** [What larger dynamic does this represent?]
+- **Verification Status:** [Sources confirming this story]
+- **Best Source:** [Where to read the full version]
+
+### Ongoing Search Notes
+*Ideas for where to find more anchor stories:*
+-
+
+**⭐ Strongest anchor story candidate(s):**
 -
 
 ---
 
-## OUTRO: Open Questions
+## Open Questions
 
-### Unresolved Tradeoffs
-*Ongoing debates among experts.*
+*Unresolved debates, ongoing tensions, what we still don't fully understand.*
+
+### Unresolved Tradeoffs & Debates
+*Where do experts legitimately disagree?*
 -
 
-### Long-Term Risks
+### Long-Term Risks or Downsides
+*What negative consequences are still unfolding?*
 -
 
 ### What's Next
@@ -397,16 +369,55 @@ This is the raw research file. It's organized by episode section and designed to
 
 ---
 
+## Wave Mapping
+
+*This section emerges as research crystallizes. Map where natural wave boundaries might fall. Waves typically include: a breakthrough moment, a diffusion/resistance period, and a consequences phase.*
+
+### Potential Wave 1
+- **Rough Timeframe:** [Start year - End year]
+- **Central Story:** [What's the core narrative of this wave?]
+- **Key Figures:** [Main people involved]
+- **Major Events:** [Turning points]
+- **Anchor Story:** [If identified]
+- **Notes:** [Why this feels like a coherent wave]
+
+### Potential Wave 2
+- **Rough Timeframe:** [Start year - End year]
+- **Central Story:** [What's the core narrative of this wave?]
+- **Key Figures:** [Main people involved]
+- **Major Events:** [Turning points]
+- **Anchor Story:** [If identified]
+- **Notes:** [Why this feels like a coherent wave]
+
+### Potential Wave 3
+- **Rough Timeframe:** [Start year - End year]
+- **Central Story:** [What's the core narrative of this wave?]
+- **Key Figures:** [Main people involved]
+- **Major Events:** [Turning points]
+- **Anchor Story:** [If identified]
+- **Notes:** [Why this feels like a coherent wave]
+
+### Wave Boundaries & Transitions
+*Where/when does one wave end and another begin? What marks those transitions?*
+-
+
+### Episode Arc Considerations
+*As waves emerge, what feels like the right pacing? Opening hook? Climax? Resolution?*
+-
+
+---
+
 ## Research Notes
 
 ### Claims to Verify
-*Flag anything that needs fact-checking before use.*
-| Claim | Confidence | Needs Verification | Source to Check |
-|-------|------------|-------------------|-----------------|
-| | High/Medium/Low | | |
+*Flag anything that needs fact-checking before use in the script.*
+
+| Claim | Confidence | Source | Needs Verification | Notes |
+|-------|------------|--------|-------------------|-------|
+| | High/Medium/Low | | Yes/No | |
 
 ### Contradictions Found
-*Different sources tell different stories.*
+*Different sources tell different stories. Document the disagreement.*
 -
 
 ### Gaps to Fill
@@ -414,7 +425,7 @@ This is the raw research file. It's organized by episode section and designed to
 -
 
 ### Interesting Tangents (Parking Lot)
-*Worth noting but may not fit the episode.*
+*Worth noting but may not fit the episode. Could become bonus content, future episodes, etc.*
 -
 
 ---
@@ -422,9 +433,10 @@ This is the raw research file. It's organized by episode section and designed to
 ## AI Research Limitations
 
 *Remember when using this document:*
-- Claims should be verified against primary sources, especially quotes
+- Claims should be verified against primary sources, especially direct quotes
 - AI knowledge has a cutoff—recent information needs independent verification
 - AI may present plausible-sounding but incorrect information confidently
 - Different sources may tell different versions; AI may pick one arbitrarily
+- AI can miss specialized knowledge, archival sources, and local histories
 
 **When in doubt, go to the primary source.**

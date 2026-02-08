@@ -1,9 +1,30 @@
 # Episode Template
 
-## INTRO: The Hook
-*Target: 10-15 min*
+## How This Template Works
 
-Open with impact—make the listener feel the scale of what we're about to explore, then ground it in what came before.
+Most backbone technologies don't have a single discovery-diffusion-aftermath arc. They evolve through **waves** — each with its own breakthrough, resistance, and consequences. The aftermath of one wave becomes the setup for the next.
+
+Some episodes will have 3-4 waves (refrigeration, the electrical grid, the internet). Others will have 1-2 (anesthesia, shipping containers). The structure flexes — same grammar, different number of iterations.
+
+**The test:** If you can identify distinct phases where the technology entered a new domain (commercial → industrial → consumer, or one industry → another → households), it's multi-wave. If there's a relatively clean before/after with one main diffusion story, it's single-arc.
+
+---
+
+## OPENING: The Hook
+*Target: 12-18 min | Both hosts, conversational*
+
+Open with a story that grabs. Ground the listener in what came before. Then preview the journey ahead.
+
+### Cold Open
+Start with a single vivid story or moment — something unexpected, human, and specific that makes the listener lean in before they know what the episode is about. This isn't a stat or a thesis statement. It's a scene.
+
+**What makes a good cold open:**
+- A named person doing something surprising (a 23-year-old loading ice onto a ship bound for the Caribbean; a doctor in rural Florida building a machine everyone says is impossible)
+- A moment of crisis, absurdity, or drama that embodies the episode's themes
+- Something the listener has never heard before — the "wait, what?" factor
+- Short: 2-3 minutes max. Set the hook, then pull back to the bigger picture.
+
+**Tone:** Narrative. You're telling a story, not introducing a topic. The listener should be curious before they even know the subject of the episode.
 
 ### By the Numbers
 Lead with 3-5 stats that capture current scale and importance. These should make someone say "wait, really?"
@@ -19,236 +40,223 @@ Lead with 3-5 stats that capture current scale and importance. These should make
 - Historical comparisons ("in 1950 this was X, today it's Y")
 
 ### The World Before
-Briefly paint what life looked like without this—the friction, the cost, the constraints. This is emotional setup for why the discovery mattered.
+The true baseline — what life looked like before ANY version of this technology existed. This is the emotional anchor for the entire episode. Everything that follows is the journey from here to now.
 
 **What to research:**
-- What did people actually do before? (processes, workarounds)
+- What did people actually do? (the dominant workaround — curing food, hand-copying texts, riding horses)
 - What did it cost in money, time, or effort?
-- Who was excluded or couldn't access the alternative?
-- Contemporary quotes or accounts describing the frustration
+- Who was excluded or harmed by the absence?
+- Contemporary accounts that make it visceral
 
-**Tone:** Vivid but brief. We're setting the stage, not telling the full "before" story yet.
+**Tone:** Vivid, immersive, brief. The listener should feel the weight of the "before." We'll return to this at the end to show the full distance traveled.
+
+### The Road Ahead
+Preview the waves. Give listeners a roadmap of the journey — name the eras, sketch the arc, build anticipation. The listener should know they're about to travel through distinct chapters and be curious about each one.
+
+**What to include:**
+- A one-sentence characterization of each wave (era name + what makes it interesting)
+- The overall shape of the story: "This isn't a single invention that changed the world overnight. It happened in waves, and each one built on — and destroyed — what came before."
+- A tease of the most surprising or counterintuitive element coming up
+
+**Why this matters:** Long episodes (90-120 min) need a roadmap. Listeners stay engaged when they know where they are in the larger story. This also sets up the wave structure as a deliberate narrative choice, not just chronological plodding.
 
 ---
 
-## ACT 1: Discovery & Invention
-*Target: 20-25 min*
+## THE WAVES
 
-The human story of how this came to be. Not a triumphant march of progress—a messy, contingent series of events that almost didn't happen.
+Each wave follows the same pattern: a breakthrough or evolution, the messy process of spreading, and the consequences that reshape the world and set up the next wave. Think of these as chapters in an evolving story, not repetitive cycles — each one should feel distinct in tone and stakes.
 
-### The People
-**What to research:**
-- Key inventors/discoverers (but resist the lone genius narrative)
-- Their backgrounds, motivations, circumstances
-- Rivals, collaborators, predecessors who got close
-- Funders, patrons, institutions that enabled the work
+---
+
+### Wave [N]: [Title]
+*Target: 15-25 min per wave | One host drives, other participates*
+
+#### The Breakthrough
+
+What's the new discovery, invention, or critical evolution in this wave? This is the human story — messy, contingent, often dramatic.
+
+**What to look for:**
+- 2-3 key people with vivid human details (resist the lone genius narrative)
+- The pivotal moment, insight, or accident
+- Failed attempts and near-misses that show it wasn't inevitable
+- Rivals, collaborators, people history forgot
 
 **Look for:**
 - Unexpected backgrounds or motivations
 - Personal stakes and drama
-- Conflicts and rivalries
-- People who history forgot but mattered
+- The "almost" moments — who got close and why did they fail?
 
-### Failed Attempts & Dead Ends
-**What to research:**
-- Earlier attempts that didn't work (and why)
-- Promising approaches that were abandoned
-- The "almost" moments—who got close?
+#### Anchor Stories
 
-**Why this matters:** Shows the invention wasn't inevitable. Creates tension.
+Every wave needs 1-2 specific, vivid, short-form stories that serve as microcosms of the larger dynamics at play. These are the moments that make great audio — not summaries of what happened, but scenes the listener can picture. A disaster, a courtroom battle, a family's experience, a specific day something went terribly wrong or unexpectedly right.
 
-### The Breakthrough
-**What to research:**
-- What was the key insight or technical leap?
-- What made *this* attempt succeed where others failed?
-- The actual moment of discovery (if there was one)
-- Early skepticism and resistance from peers
+**What makes a good anchor story:**
+- **Specific**: A named person, a date, a place. "In May 1929, at the Cleveland Clinic..." not "there were safety incidents."
+- **Vivid**: The listener can picture the scene. Sensory details, human reactions, stakes that are immediately clear.
+- **Emblematic**: It captures the larger dynamic in miniature. The swill milk scandal isn't just a tragedy — it's the entire case for why refrigeration mattered, compressed into one horrifying story.
+- **Short**: 2-3 minutes to tell, not a 10-minute digression. These are punctuation marks in the narrative, not chapters of their own.
 
-**Look for:**
-- Serendipity, accidents, unexpected turns
-- The "aha" moment (if real, not mythologized)
-- Initial reactions—who believed it, who didn't?
+**Where they go:** Anchor stories can live in any section of a wave — as the entry point to a Breakthrough, as evidence in Diffusion & Resistance, or as the emotional punch in What Changed. Place them where they'll land hardest.
 
-### How It Works
+**Research note:** These are often the hardest things to find and the most valuable. Look for them in magazine features, book chapters, newspaper archives, and documentary sources. A single great anchor story is worth more than five paragraphs of summary.
+
+#### How It Works
+
+*Include this section in whichever wave first introduces the core mechanism.* For refrigeration, that's when mechanical refrigeration arrives. For the internet, it's when packet switching is developed. For the electrical grid, it's when generators and transmission are first demonstrated.
+
 **What to research:**
 - The core mechanism or principle (simplified)
 - What new capability this unlocked
 - Why previous approaches couldn't achieve this
+- A simple analogy that makes it click
 
-**Tone:** Mental model, not engineering. Think "what does this let you do that you couldn't before?" not "here are the components." Keep this SHORT—5 minutes max within the act.
+**Tone:** Mental model, not engineering diagram. Think "what does this let you do that you couldn't before?" not "here are the components." A good analogy is worth more than a technical explanation. Keep this to 5 minutes max.
 
----
+**In later waves:** You don't re-explain the core mechanism. You only explain what's *new* — a safer refrigerant, a miniaturized version, a new application. One or two sentences, not a full section.
 
-## ACT 2: Diffusion
-*Target: 25-35 min*
+#### Diffusion & Resistance
 
-The messy middle that most stories skip. How did this go from lab curiosity to world-changing infrastructure? This is often where the real story is.
+How did this wave spread? Who adopted first, who fought it, and what had to be true for it to take off? This is often where the real story is — the messy middle that most accounts skip.
 
-### The Timeline
-**What to research:**
-- When was it invented vs. when did adoption begin?
-- Early adopters—who and why?
-- Key milestones in scaling (first commercial use, first mass market, etc.)
-- When did it cross from "novelty" to "inevitable"?
+**What to look for:**
+- **Early adopters**: Who adopted first and why? What was their incentive?
+- **Resisters**: Who fought it and why? What were their arguments? (Often more reasonable than we remember.)
+- **Enabling conditions**: What complementary technologies, infrastructure, economic conditions, or policy changes had to exist?
+- **The tipping point**: Was there a specific moment it became inevitable? A price threshold, a killer app, a cultural shift, a crisis?
+- **Key companies or institutions**: Who commercialized it? Business model innovations? (Not an Acquired-style deep dive, but companies are part of the diffusion story.)
 
-**Build a clear chronology:** Listeners should feel the pace—was this a slow burn or rapid explosion?
+**The question to answer:** Why did this wave happen *when* it did — not earlier, not later?
 
-### Resistance & Blockers
-**What to research:**
-- Who fought adoption and why?
-- Incumbent industries threatened
-- Regulatory or legal barriers
-- Safety concerns (real or manufactured)
-- Cultural resistance or skepticism
+#### What Changed
 
-**Look for:**
-- Specific people, companies, or institutions who resisted
-- Their arguments (often more reasonable than we remember)
-- How resistance was overcome (or accommodated)
+What did this wave make possible? What did it destroy or displace? And critically: how did it set up the next wave?
 
-### Enabling Conditions
-**What to research:**
-- What complementary technologies were required?
-- What infrastructure had to exist first?
-- Economic conditions that enabled adoption
-- Institutional or regulatory changes needed
-- Skills or workforce requirements
+**What to look for:**
+- Immediate, visible consequences (what a contemporary observer would have noticed)
+- Winners and losers — specific people, companies, industries, regions
+- The transition: what was now possible but not yet realized? What gap remained?
 
-**The question:** Why did this take off *when* it did, not earlier or later?
-
-### The Tipping Point
-**What to research:**
-- Was there a specific moment adoption accelerated?
-- A killer app, a price threshold, a cultural shift?
-- A company, product, or event that changed perception?
-
-**Look for:** The narrative turn—the moment it became clear this would win.
-
-### Companies & Competition
-**What to research:**
-- Key companies in commercialization and scaling
-- Competitive dynamics—who won, who lost, why?
-- Business model innovations
-- Vertical integration vs. specialization
-
-**Note:** This isn't an Acquired-style company deep dive, but companies are part of the diffusion story.
+**The bridge:** End each wave by showing what was now possible but not yet real — the tension that the next wave will resolve. The ice trade made people expect cold, but it was seasonal and fragile. Mechanical refrigeration transformed industry, but homes still had iceboxes. This is the narrative engine that pulls the listener into the next chapter.
 
 ---
 
-## ACT 3: Aftermath
-*Target: 25-30 min*
+### Wave Guidance
 
-What changed once this became widespread? Separate the immediate, obvious effects from the deeper structural shifts.
+**Multi-wave episodes** (most infrastructure/physical technologies):
+- Typically 3-4 waves
+- Each wave: 15-25 minutes
+- Total waves section: 50-75 minutes
 
-### Immediate Consequences
-First-order effects people noticed right away.
+**Single-arc episodes** (some digital technologies, compressed timelines):
+- 1-2 waves (essentially the original three-act structure, just using this vocabulary)
+- Each wave: 25-35 minutes
 
-**What to research:**
-- Productivity or efficiency gains (with numbers)
-- Cost changes (how much cheaper/faster?)
-- Behavior changes in daily life
-- What became possible that wasn't before?
-
-**Tone:** The obvious stuff—what a contemporary observer would have noticed and remarked on.
-
-### Winners & Losers
-**What to research:**
-- Who gained leverage, market power, or wealth?
-- Who lost pricing power or relevance?
-- Which industries or professions were disrupted?
-- Who adapted fastest and how?
-- Geographic winners and losers
-
-**Look for:**
-- Specific companies, industries, or regions
-- Unexpected winners (who saw opportunity others missed)
-- The losers' perspective—were they foolish or just unlucky?
-
-### Structural Changes
-Second-order effects that unfolded over time. These are often more important than the obvious ones.
-
-**What to research:**
-- Labor market shifts (new jobs, displaced jobs, changed skills)
-- Geographic effects (urbanization, regional shifts, globalization)
-- Inequality and access (who benefited, who was left out)
-- New industries and business models that emerged
-- Cultural and social changes
-- Regulatory and governance responses
-
-**Tone:** These are the "and then what?" questions. Follow the thread.
-
-### The Numbers (Revisited)
-**What to research:**
-- Adoption curves over time
-- Cost decline curves
-- Productivity metrics
-- Market size growth
-
-**Why here:** Bookend with the intro. Show the trajectory from "promising" to "everywhere."
+**Pacing:** Not every wave needs equal weight. The wave with the richest human drama or the most surprising diffusion story should get more time. Others can be tighter. Let the material dictate.
 
 ---
 
-## OUTRO: Open Questions
-*Target: 5-10 min*
+## BUILT IN: The Big Picture
+*Target: 15-20 min | Both hosts, conversational*
 
-Leave listeners thinking. Limit to 2-3 genuinely unresolved questions—not a grab bag of tangents.
+After the waves, zoom out. The listener has been immersed in the individual chapters — now give them the full view of the transformation and what it means.
 
-### What's Unresolved?
+### The Full Arc
+Connect the "World Before" to now. What's the total distance traveled?
+
+**What to look for:**
+- The most striking before/after comparison, now that the listener has context
+- Numbers revisited — bookend with the hook stats
+- Structural changes that span multiple waves: labor, geography, culture, inequality, regulation
+- Consequences nobody predicted
+
+**Tone:** This is the "holy crap" moment where you step back and see the full picture. The individual waves each felt incremental; the total transformation is staggering.
+
+### The Backbone Test
+*The show's signature closing framework. Apply to every episode.*
+
+Five questions that examine how deeply this technology is embedded in modern life — and where it's headed:
+
+**1. Invisible?**
+Has this become invisible infrastructure — something you only notice when it fails? When did it cross from "remarkable" to "assumed"? What does it feel like when it breaks?
+
+**2. What depends on it?**
+What systems, industries, behaviors, or ways of life now exist ONLY because this technology exists? Map the dependency chain. (Supermarkets depend on refrigeration. Suburbs depend on supermarkets. American political geography depends on suburbs.)
+
+**3. What's the hidden cost?**
+What are we still paying that most people don't see? Energy, labor conditions, environmental impact, inequality, fragility. Every backbone technology has a ledger with entries most people never read.
+
+**4. Could we go back?**
+What would collapse if this disappeared tomorrow? How deep is the dependency? This question reveals just how load-bearing the technology has become — and how much we take for granted.
+
+**5. What's next?**
+Backbone technologies don't stop evolving once they become invisible — they keep developing behind the scenes. What's happened recently? What's coming down the line? What would the next wave look like? For refrigeration: solid-state cooling, closing the developing-world cold chain gap, next-generation refrigerants. For power: smart grids, distributed generation, wireless power. This is the forward-looking question — a reminder that "from breakthrough to built-in" isn't the end of the story.
+
+**Note:** You don't have to treat these as a literal checklist every episode. They're a lens for the closing conversation. Some episodes will lean harder on certain questions. The point is to give listeners a consistent framework for thinking about infrastructure — the way Acquired uses seven powers for business strategy.
+
+### Open Questions
+2-3 genuinely unresolved questions. These should feel like the start of a conversation the listener will continue in their own head.
+
 **What to research:**
 - Ongoing debates among experts
 - Tradeoffs we still haven't figured out
-- Long-term risks or concerns
-- Potential future developments
-
-### What's Next?
-**What to research:**
-- Current frontiers or emerging innovations in this space
-- Potential disruptions on the horizon
-- Open questions about long-term trajectory
+- Tensions between this technology's benefits and its costs
+- The frontier — what's coming next in this space
 
 **Tone:** Curious, not preachy. We're raising questions, not answering them.
 
 ---
 
+## HOST DIVISION
+
+### Principle: Alternate by Wave
+
+Each wave has a **driver** — one host who leads the narrative, sets the scene, introduces the characters, and carries the thread. The other host participates: asks questions, reacts, pushes back, adds color. Hosts alternate waves throughout the episode.
+
+**Why by wave (not by segment type):**
+- Each host gets complete mini-narratives to own and drive
+- Natural variety in voices keeps energy high across 90-120 minutes
+- Neither host monologues for too long
+- Both hosts engage with all aspects of the story (discovery, diffusion, aftermath) rather than being typecast
+
+**Opening & Built In:** Both hosts, conversational. These are discussion sections — back and forth, riffing, reacting — not narrated sections.
+
+**Suggested assignment approach:** During prep, each host claims the waves that excite them most. If both want the same wave, the one who did less research on it gets it (fresh reactions are good radio). If a wave has a natural fit — one host knows the industry, the other knows the science — lean into that.
+
+---
+
 ## Things to Avoid
 
-- **Don't over-explain "how it works."** Keep the technical explanation short and intuitive.
-- **Don't treat adoption as inevitable.** Resistance and contingency are often the story.
-- **Don't collapse "immediate consequences" and "structural changes" into one blur.** They're different and both matter.
+- **Don't over-explain "how it works."** One clear analogy beats five technical paragraphs. 5 minutes max.
+- **Don't treat adoption as inevitable.** Resistance and contingency are often the story. Give the resisters their due.
+- **Don't let waves blur together.** Each should feel like a distinct chapter with its own characters and stakes. Clear transitions matter.
+- **Don't front-load all the characters.** Spread the human drama across waves. Each wave should introduce fresh faces.
+- **Don't save all consequences for the end.** Each wave has its own "what changed." The Big Picture is for the full-arc view, not a dump of everything.
 - **Don't use today's values to judge past decisions.** Give historical actors their context.
 - **Don't "enter the dorm room."** Avoid simplistic good/bad framing. We're exploring, not moralizing.
-- **Don't worship founders.** The people matter, but so do teams, institutions, and luck.
+- **Don't worship founders.** The people matter, but so do teams, institutions, timing, and luck.
 
 ---
 
 ## Research Checklist
 
-For each episode, make sure you have:
-
-**Numbers & Data**
-- [ ] 3-5 current scale/impact stats
-- [ ] Historical comparison points
-- [ ] Adoption timeline with key dates
-- [ ] Cost curves or efficiency gains
-
-**People & Stories**
+### Per Wave
 - [ ] 2-3 key figures with human details
-- [ ] At least one "almost" story (failed attempt, near miss)
-- [ ] Resistance figures—who fought it and why
-- [ ] Winner and loser examples (specific companies/industries)
+- [ ] 1-2 anchor stories (specific, vivid, short-form — scenes, not summaries)
+- [ ] At least one "almost" or failed attempt
+- [ ] Clear identification of resisters and their arguments
+- [ ] Enabling conditions — what else had to be true?
+- [ ] Tipping point identified
+- [ ] Winners and losers (specific names, companies, industries)
+- [ ] Bridge to next wave — what was now possible but not yet realized?
 
-**Context & Causation**
-- [ ] Clear "world before" picture
-- [ ] Enabling conditions for adoption
-- [ ] Complementary technologies required
-- [ ] Tipping point moment identified
-
-**Consequences**
-- [ ] Immediate, obvious effects
-- [ ] 2-3 second-order structural changes
-- [ ] Labor/employment impacts
-- [ ] Geographic or inequality dimensions
-
-**Forward-Looking**
-- [ ] 2-3 genuine open questions
-- [ ] Current developments or future possibilities
+### Episode-Wide
+- [ ] Cold open story identified (vivid, unexpected, 2-3 min)
+- [ ] 3-5 current scale/impact stats for the hook
+- [ ] Clear "world before" picture (the true baseline)
+- [ ] Road ahead preview drafted (wave names + one-sentence teasers)
+- [ ] "How it works" explanation with a strong analogy (placed in the right wave)
+- [ ] Full-arc before/after comparison for Built In section
+- [ ] All five Backbone Test questions considered
+- [ ] 2-3 genuine open questions for the close
+- [ ] Host assignments for each wave
+- [ ] Timing estimate per wave (total should hit 90-120 min)

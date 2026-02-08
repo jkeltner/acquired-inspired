@@ -1,4 +1,4 @@
-# Episode Research: Refrigeration
+#  Episode Research: Refrigeration
 
 *Research compiled: February 5, 2026*
 *Status: Initial*

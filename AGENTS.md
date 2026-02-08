@@ -1,25 +1,43 @@
-# Project Context for AI Agents
+# Backbone: From Breakthrough to Built-In
 
-## What This Is
+## Project Context
 
-A podcast exploring technological innovations that shaped modern life—how they were discovered, how they spread, and their ripple effects. Think Acquired, but focused on *innovations* rather than companies.
+A podcast exploring technological innovations that shaped modern life — how they were discovered, how they spread, and their ripple effects. Think Acquired, but focused on *innovations* rather than companies.
 
-**Hosts:** Jeff and Cyrus
-**Status:** Pre-pilot planning phase
+**Hosts:** Jeff Keltner and Cyrus Mistry
+**Status:** Pilot episode in development (Refrigeration)
+
+**The Core Angle:** Most tech/business content skips from "invention" to "winner." Backbone emphasizes the **diffusion story** — the messy middle: who resisted and why, what complementary tech was needed, the tipping point from novelty to inevitability, and the second-order societal effects.
+
+See `overview.md` for branding, audience, and goals.
 
 ---
 
-## Episode Structure
+## Episode Structure: Waves
 
-Each episode follows a 3-act structure with intro and outro:
+Most backbone technologies don't have a single discovery-diffusion-aftermath arc. They evolve through **waves** — each with its own breakthrough, resistance, and consequences. The aftermath of one wave becomes the setup for the next.
 
 | Section | Target Time | Purpose |
 |---------|-------------|---------|
-| **INTRO: The Hook** | 10-15 min | Impact stats + "world before" to set the stakes |
-| **ACT 1: Discovery** | 20-25 min | The human story of invention—people, failures, breakthroughs |
-| **ACT 2: Diffusion** | 25-35 min | The messy middle—resistance, enabling conditions, tipping point |
-| **ACT 3: Aftermath** | 25-30 min | Consequences—immediate effects, winners/losers, structural changes |
-| **OUTRO: Open Questions** | 5-10 min | 2-3 unresolved questions to leave listeners thinking |
+| **OPENING: The Hook** | 12-18 min | Cold open story, impact stats, "world before," preview of waves |
+| **THE WAVES** (×2-4) | 15-25 min each | Each wave: Breakthrough → Diffusion & Resistance → What Changed |
+| **BUILT IN: The Big Picture** | 15-20 min | Full arc, The Backbone Test (5 questions), open questions |
+
+**Episode length:** 90-120 min
+
+Each wave has a **driver** (one host leads) and both hosts participate. Hosts alternate waves. Opening and Built In are conversational (both hosts).
+
+**Key elements within waves:**
+- **Anchor stories**: 1-2 specific, vivid, short-form stories per wave that capture the larger dynamics in miniature
+- **How It Works**: Placed in whichever wave first introduces the core mechanism (~5 min max)
+- **The bridge**: Each wave ends by showing what's now possible but not yet realized — setting up the next wave
+
+**The Backbone Test** (closing framework, every episode):
+1. **Invisible?** — Has it become infrastructure you only notice when it fails?
+2. **What depends on it?** — Map the dependency chain
+3. **What's the hidden cost?** — Energy, labor, environment, inequality
+4. **Could we go back?** — How deep is the dependency?
+5. **What's next?** — What's still evolving behind the scenes?
 
 See `episode_template.md` for detailed guidance on each section.
 
@@ -27,41 +45,49 @@ See `episode_template.md` for detailed guidance on each section.
 
 ## Per-Episode Workflow
 
-Each episode has **three files** in its folder:
+Each episode gets its own folder with three files:
+
+```
+episodes/
+└── [topic-name]/
+    ├── research.md    ← Claude creates (raw research, comprehensive)
+    ├── outline.md     ← Claude drafts, Jeff & Cyrus refine (episode structure + editorial decisions)
+    └── script.md      ← Claude creates from outline (recording document)
+```
 
 ### 1. Raw Research (`research.md`)
 **Created by:** Claude
-**Purpose:** Comprehensive research organized by episode section
+**Purpose:** Comprehensive research organized to feed into the wave structure
 
-- Covers all sections of the episode structure
-- More is better—be exhaustive
+- Exhaustive — more is better at this stage
+- Organized by topic area (people, timeline, resistance, consequences, etc.)
 - Highlight best material with ⭐
-- Link sources inline
-- Include a "Key Sources" section for deep-dive recommendations
-- Flag claims that need verification
+- Specifically look for **anchor story** candidates (vivid, specific, short-form)
+- Link sources inline, flag claims needing verification
 
 **Template:** `templates/research_template.md`
 
-### 2. Episode Notes (`notes.md`)
-**Created by:** Jeff & Cyrus
-**Purpose:** Editorial synthesis and decisions
+### 2. Episode Outline (`outline.md`)
+**Created by:** Claude (initial draft), then refined collaboratively with Jeff & Cyrus
+**Purpose:** The episode plan — wave structure, anchor stories, timing, host assignments
 
-- What to include from the research
-- Connections and throughlines
-- Pacing and emphasis decisions
-- Who drives which section
-- Questions for each other
+- Defines the waves and what goes in each
+- Includes specific anchor stories, key characters, bridge transitions
+- Timing estimates per wave
+- Host assignments (who drives which wave)
+- Editorial decisions: what to include, what to cut, emphasis and pacing
 
-**Template:** `templates/episode_notes_template.md`
+**Template:** `templates/outline_template.md`
 
-### 3. Script/Outline (`script.md`)
-**Created by:** Claude (based on research + notes)
-**Purpose:** Recording document
+### 3. Script (`script.md`)
+**Created by:** Claude (based on outline)
+**Purpose:** Recording document — structured enough to stay on track, loose enough for genuine conversation
 
-- Structured beats for each section
-- Scripted intros/transitions
-- Key stats and details to hit
-- Flexible enough for genuine conversation
+- Scripted cold open and transitions between waves
+- Key beats and talking points in order
+- Specific stats, quotes, and details to hit
+- Cues for who's driving, suggested handoffs
+- Reference section (names, dates, numbers)
 
 **Template:** `templates/script_template.md`
 
@@ -70,21 +96,32 @@ Each episode has **three files** in its folder:
 ## Workflow Steps
 
 ```
-1. INITIAL RESEARCH
-   Claude creates comprehensive research.md from the template
+1. PICK A TOPIC
+   Choose from topics.md, create a folder in /episodes/
    ↓
-2. REVIEW & REFINE
-   Jeff/Cyrus review, request deeper dives on specific areas
+2. INITIAL RESEARCH
+   Claude creates comprehensive research.md
+   Prompt: "Let's start research on [topic]."
+   ↓
+3. REVIEW & REFINE
+   Jeff/Cyrus review, request deeper dives
    Claude adds to research.md (all refinements stay in one file)
+   Prompts:
+     "Go deeper on the resistance story."
+     "Find more anchor stories for Wave 2."
+     "What are the best stats on adoption curves?"
    ↓
-3. EPISODE NOTES
-   Jeff & Cyrus create notes.md—their synthesis and editorial decisions
-   (Claude may provide suggestions if asked)
+4. OUTLINE
+   Claude drafts outline.md based on research
+   Jeff & Cyrus refine: adjust waves, pick anchor stories,
+   assign host duties, make pacing decisions
    ↓
-4. SCRIPT
-   Claude creates script.md based on research.md + notes.md
+5. SCRIPT
+   Claude creates script.md from outline
+   Prompt: "Based on the outline, create the script for this episode."
    ↓
-5. RECORD
+6. REVIEW & RECORD
+   Review the script together. Make adjustments. Record.
 ```
 
 ---
@@ -93,73 +130,83 @@ Each episode has **three files** in its folder:
 
 ```
 /
-├── overview.md              # Podcast concept, format, goals
-├── episode_template.md      # Episode structure reference (the 3-act framework)
-├── topics.md                # Episode topic ideas
-├── pilot_checklist.md       # Planning checklist for pilot
-├── AGENTS.md                # This file (AI instructions)
+├── overview.md              # Podcast concept, branding, goals
+├── episode_template.md      # Episode structure guide (wave framework, Backbone Test, etc.)
+├── topics.md                # Episode topic ideas and evaluation criteria
+├── pilot_checklist.md       # Planning checklist for pilot episode
+├── AGENTS.md                # This file (project context + AI instructions)
+├── CLAUDE.md                # Same as AGENTS.md
 │
-├── templates/               # Per-episode file templates
+├── templates/               # Blank templates for per-episode files
 │   ├── research_template.md
-│   ├── episode_notes_template.md
+│   ├── outline_template.md
 │   └── script_template.md
+│
+├── assets/                  # Cover art, promo images
+│   ├── cover_art.png
+│   └── promo_image.png
 │
 └── episodes/                # Episode folders
     └── [topic-name]/
         ├── research.md
-        ├── notes.md
+        ├── outline.md
         └── script.md
 ```
-
----
-
-## The Core Angle
-
-Most tech/business content skips from "invention" to "winner." This podcast emphasizes the **diffusion story**—the messy middle:
-- Who resisted and why
-- What complementary tech was needed
-- The tipping point from novelty to inevitability
-- Second-order societal effects
 
 ---
 
 ## Tone & Style Guidelines
 
 - **Narrative-driven**, not textbook summaries
-- **Human drama** over technical achievement
-- **Accessible explanations**—mental models, not engineering diagrams
-- **No "dorm room" debates**—avoid simplistic good/bad framing
-- **Historical empathy**—don't judge past decisions by today's values without context
+- **Human drama** over technical achievement — anchor stories are the backbone of good episodes
+- **Accessible explanations** — mental models, not engineering diagrams
+- **No "dorm room" debates** — avoid simplistic good/bad framing
+- **Historical empathy** — don't judge past decisions by today's values without context
+- **Waves, not acts** — treat each technology as an evolving story with multiple chapters, not a single before/after
 
 ---
 
 ## Research Guidelines
 
 When researching, prioritize:
-1. Vivid "before" scenarios (what life was like without the innovation)
-2. Human stories—inventors, resisters, winners, losers
-3. The diffusion/adoption story (not just the breakthrough)
-4. Specific anecdotes with names, dates, verifiable details
-5. Statistics that capture scale of change
+1. **Anchor stories** — specific, vivid, short-form stories with named people, dates, places
+2. **The "world before"** — what life was like without the innovation (visceral, not abstract)
+3. **Human stories** — inventors, resisters, winners, losers, with personal details
+4. **The diffusion story** — not just the breakthrough, but how it spread and who fought it
+5. **Statistics that capture scale of change** — tangible comparisons, before/after contrasts
+6. **Wave boundaries** — look for distinct phases where the technology entered new domains
 
 **Always:**
 - Highlight the best material (⭐) so it's easy to find
 - Flag claims that need fact-checking
 - Suggest primary sources when possible
 - Note when information might be uncertain or contested
+- Specifically identify anchor story candidates
 
 **Avoid:**
 - Generic overviews without specific details
-- Over-explaining technical mechanisms
+- Over-explaining technical mechanisms (5 min max in the episode)
 - Treating adoption as inevitable (resistance is often the story)
+
+---
+
+## Tips
+
+**On research:** More is better at the start. It's easier to cut than to realize you're missing something mid-recording. Anchor stories are the hardest to find and the most valuable — look in magazine features, book chapters, and newspaper archives.
+
+**On the outline:** This is where the creative decisions happen. The research is raw material; the outline is the vision for the episode. Claude drafts it, but Jeff and Cyrus shape it.
+
+**On the script:** It's a guide, not a straitjacket. Leave room for genuine conversation, especially during the Built In section.
+
+**On Claude:** Good at research, organization, and drafting. Not good at knowing what makes a compelling episode — that's Jeff and Cyrus's job. Ask Claude for deeper research, alternative anchor stories, or draft revisions, but make the editorial calls yourselves.
 
 ---
 
 ## AI Limitations to Remember
 
-- Knowledge has a cutoff date—verify recent information independently
+- Knowledge has a cutoff date — verify recent information independently
 - AI may present plausible-sounding but incorrect information confidently
-- Quotes attributed to historical figures are often inaccurate—always verify
+- Quotes attributed to historical figures are often inaccurate — always verify
 - AI tends to oversimplify complex historical debates
 - Different sources may tell different versions; AI may pick one arbitrarily
 
