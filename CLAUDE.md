@@ -95,6 +95,12 @@ The show's signature closing framework, applied every episode:
 ### Host Division
 Each wave has a **driver** — one host leads the narrative, the other participates and reacts. Hosts alternate waves. Opening and Built In are conversational (both hosts).
 
+### Host Profiles
+Full personality profiles for each host are in `hosts/jeff.md` and `hosts/cyrus.md`. The Script Writer reads these before writing any dialogue. They define each host's background, communication style, areas of expertise, and how they interact with each other.
+
+### Show Sign-Off
+**[PENDING]** Jeff and Cyrus will decide on the show's signature closing line — the phrase that ends every episode (e.g., Freakonomics' "take care of yourself and if you can, somebody else too"). Once decided, it will be added here and the Script Writer will use it. Until then, scripts should end warmly and include `[FLAG: awaiting signature sign-off line]`.
+
 ---
 
 ## Directory Structure
@@ -102,6 +108,9 @@ Each wave has a **driver** — one host leads the narrative, the other participa
 ```
 backbone_auto/
 ├── CLAUDE.md                    ← this file (shared context for all agents)
+├── hosts/                       ← host personality profiles (read by Script Writer)
+│   ├── jeff.md
+│   └── cyrus.md
 ├── roles/                       ← agent prompt files
 │   ├── research-director.md
 │   ├── narrative-architect.md
@@ -113,7 +122,6 @@ backbone_auto/
 │   ├── research-overview.md
 │   ├── research-chapter.md
 │   └── blueprint.md
-├── workflows/                   ← orchestration instructions
 ├── episodes/                    ← per-episode working directories
 │   └── {topic}/
 │       ├── research/            ← research files
