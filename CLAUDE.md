@@ -50,20 +50,27 @@ Research Director ─── Phase 2: Chapter Deep Dives
 Script Writer ─────── Chapter-by-chapter script.txt (TTS-ready dialogue)
   │
   ▼
-Editor ────────────── Quality, pacing, accuracy, continuity review
+Editor ────────────── Quality, pacing, accuracy, continuity, voice consistency
   │
   ▼
 Fact Checker ──────── Verify claims, stats, quotes
   │
   ▼
 Producer ──────────── Final assembly, episode metadata, companion content
+  │
+  ▼
+[Post-episode chat: Jeff + Cyrus — ~20 min, three questions]
+  │
+  ▼
+Profile Updater ───── Proposed edits to host profiles from chat transcript
 ```
 
 **Key mechanics:**
 - The pipeline runs **end-to-end from a single topic selection** — no manual gates.
 - The Research Director runs **twice** — broad overview first, then per-chapter deep dives after the Narrative Architect produces the blueprint.
 - The Narrative Architect's blueprint is the **binding creative contract**. All downstream agents build from it.
-- Quality control is built into the pipeline: the Editor checks pacing, accuracy, and continuity; the Fact Checker verifies claims.
+- Quality control is built into the pipeline: the Editor checks pacing, accuracy, continuity, and voice consistency against host profiles; the Fact Checker verifies claims.
+- The Profile Updater closes the feedback loop: post-episode chats between Jeff and Cyrus feed back into the host profiles, improving script quality over time. See `roles/profile-updater.md` for the three questions to orient each chat.
 
 ---
 
@@ -117,7 +124,8 @@ backbone_auto/
 │   ├── script-writer.md
 │   ├── editor.md
 │   ├── fact-checker.md
-│   └── producer.md
+│   ├── producer.md
+│   └── profile-updater.md
 ├── templates/                   ← output format contracts
 │   ├── research-overview.md
 │   ├── research-chapter.md
@@ -135,6 +143,7 @@ backbone_auto/
 │       │   ├── editor-notes.md  ← Editor's review notes
 │       │   ├── fact-check-report.md ← Fact Checker's report
 │       │   └── assembled.txt    ← full episode script
+│       ├── profile-update-proposals.md ← Profile Updater's proposed host file edits
 │       └── final/               ← assembled deliverables
 ├── old_reference/               ← v1 templates (archived, not active)
 └── assets/                      ← cover art, promo images
