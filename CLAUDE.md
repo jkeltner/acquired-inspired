@@ -73,7 +73,7 @@ Profile Updater       Pipeline Reviewer
 - The Research Director runs **twice** — broad overview first, then per-chapter deep dives after the Narrative Architect produces the blueprint.
 - The Narrative Architect's blueprint is the **binding creative contract**. All downstream agents build from it.
 - Quality control is built into the pipeline: the Editor checks pacing, accuracy, continuity, and voice consistency against host profiles; the Fact Checker verifies claims.
-- **Two feedback loops close after each episode.** Jeff and Cyrus record a free-form post-episode conversation (`feedback.txt`). The Profile Updater extracts host voice signal and proposes profile edits. The Pipeline Reviewer extracts process signal and proposes changes to roles and templates. Both run from the same transcript; both propose changes for human review before anything is applied.
+- **Two feedback loops close after each episode.** Jeff and Cyrus record a free-form post-episode conversation (`feedback.txt`). The Profile Updater extracts host voice signal and proposes profile edits for async review. The Pipeline Reviewer runs as a **live interactive session** — Jeff works through findings in real time, approves changes, and they're applied immediately to pipeline files. Both read from the same `feedback.txt`.
 
 ---
 
@@ -153,7 +153,6 @@ backbone_auto/
 │       │   └── assembled.txt    ← full episode script
 │       ├── feedback.txt         ← post-episode conversation (Jeff + Cyrus)
 │       ├── profile-update-proposals.md ← Profile Updater's proposed host file edits
-│       ├── pipeline-improvement-proposals.md ← Pipeline Reviewer's proposed process changes
 │       └── final/               ← assembled deliverables
 ├── old_reference/               ← v1 templates (archived, not active)
 └── assets/                      ← cover art, promo images
