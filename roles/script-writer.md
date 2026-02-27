@@ -92,6 +92,49 @@ Jeff and Cyrus are not interchangeable narrators. They should react differently,
 - Short interjections keep things alive: "No way." / "Right?" / "That's wild."
 - They can push back on each other: "Actually, I think that's a little unfair to the ice industry..."
 
+Humor should come from the material, not from transitions. The funniest moments in great podcasts are things only this specific story could produce — the absurdity of a historical figure's decision, the irony of an unintended consequence, the contrast between how something looked then and what we know now. Don't write jokes into transitions; let the research supply the comedy.
+
+### Host Knowledge Division: Manufacturing Authentic Discovery
+
+The hardest craft problem in a scripted podcast is making dialogue sound like genuine discovery. These techniques make it work:
+
+**Divide knowledge, don't share it.** The driving host for each wave should appear to know things the other host doesn't — yet. The non-driving host asks questions that reveal they're encountering details for the first time. Don't write both hosts as equally omniscient about everything.
+
+**Engineer at least 2–3 "prepared surprise" moments per episode.** These are moments where the driving host drops a find — a biographical connection, a forgotten detail, a counterintuitive fact — that appears to surprise the other. The non-driving host's reaction should mirror what the listener is feeling. Script the reaction, not just the information:
+
+- "Wait — he was an orphan too?"
+- "Hold on. She was doing this at... how old?"
+- "That's the same family? I did not make that connection."
+
+**Use explicit hand-off signals at wave transitions.** When the narrative passes to the other host, make it concrete:
+
+- "Cyrus, this is where your wave takes over — walk me through what happens next."
+- "Jeff, you've been sitting on this part. Tell me what's happening on the other side of this."
+
+This signals to the listener that the mode has shifted and gives authority to the incoming host.
+
+**The non-driving host plays "intelligent curious questioner."** Not "wow" and "that's wild" — the actual question the listener is thinking:
+
+- "But wait — if that was true, how did anyone not see this coming?"
+- "So the people fighting this... they weren't just being stubborn. They had a real argument."
+
+These interjections break up narration *and* model the listener's own reasoning.
+
+### Prime the Listener Before Every Anchor Story
+
+Before dropping into an anchor story, the driving host should spend 1–2 sentences signaling their own reaction to it. This is what turns a story from information into an event.
+
+**Yes:**
+- "Okay — here is the story I could not get out of my head when I was reading about this."
+- "And this is where it gets genuinely strange. Not 'interesting history' strange — 'I had to re-read this three times' strange."
+- "Cyrus, I want to tell you about one specific person, because this captures everything about this moment."
+
+**No:** [Launching directly into the anchor story without any setup]
+
+The setup creates anticipation. The listener leans forward. Then when the story lands — particularly when the payoff is a surprise or a vivid detail — the reaction feels earned rather than inserted.
+
+After a major revelation or counterintuitive fact, the non-driving host should confirm it — not just react, but mirror what the listener is feeling: "Wait, is that right?" / "That actually happened?" / "I believe that, and I hate that I believe that." These confirmation beats are brief, but they reset the listener's attention for what comes next.
+
 ### Tell Stories, Don't Summarize
 
 When you hit an anchor story, commit to it. Set the scene. Name the person. Build tension. Don't rush through it.
@@ -149,16 +192,29 @@ Each wave chapter follows the blueprint's structure: Breakthrough → Anchor Sto
 
 - The **driver host** leads the narrative for this wave. The other host reacts, asks questions, adds color.
 - Start each wave with a strong scene or statement that orients the listener
-- The **anchor stories** are the emotional core — give them room to breathe
-- The **resistance section** should feel like a genuine debate, not a straw man
+- The **anchor stories** are the emotional core — give them room to breathe, and prime each one with the driver host's reaction before beginning (see "Prime the Listener" above)
+- The **resistance section** should feel like a genuine debate, not a straw man — the blueprint will have specified why the resisters' arguments were reasonable; honor that
 - End with the **bridge** — what was now possible but not yet realized
+
+**Writing the How It Works section:** The goal is revelation, not lecture. Frame it as something the hosts are helping the listener discover together. Use this four-beat structure:
+
+1. **Set up the difficulty:** The driving host acknowledges why this is counterintuitive or hard to grasp. "So here's the thing I couldn't figure out until I actually read how this works..."
+2. **Deliver the mechanism:** One clear analogy. Not five technical paragraphs — one analogy that clicks.
+3. **Non-driving host pushes back once:** They ask the question the listener is thinking. "But wait — if that's how it works, doesn't that mean the whole thing would..." The pushback should be the real objection, not a softball.
+4. **Resolve and show scale:** The driving host answers the pushback, then immediately anchors the mechanism to a concrete consequence or number. "Exactly — and that's why within five years, every brewery in the country had one."
+
+This four-beat structure prevents How It Works from becoming a monologue. The pushback is essential — it models the listener's own skepticism and makes the resolution feel earned.
 
 ### Writing the Built In Chapter
 This is conversational — both hosts, back and forth. It should feel like two people who've just told an incredible story stepping back to reflect on it.
 
 - The **Full Arc** is the "holy crap" moment of the whole episode
-- The **Backbone Test** questions should feel like genuine exploration, not a checklist
-- The **Open Questions** should feel like the start of a conversation the listener continues in their own head
+- The **Backbone Test** questions should feel like genuine exploration, not a checklist — each question deserves 2–3 minutes, not 30 seconds
+- The **Backbone Test question 3** ("What's the hidden cost?") is where Jeff and Cyrus's worldviews are most likely to diverge: Jeff tends toward "this is solvable through better institutions or policy," Cyrus tends toward "this cost is structural and won't go away." Write a genuine exchange of views here, not consensus.
+- The **Open Questions** should be divided: Jeff drives one, Cyrus drives one. Match the question to their worldview — Jeff's toward institutional/policy dimensions, Cyrus's toward structural/systems dimensions.
+- After the Open Questions, include a **"What the Story Teaches" beat** (2–3 min): Jeff and Cyrus extract one portable principle from this episode's diffusion story. Not a summary — a principle the listener can carry to other technologies and historical moments. It should be specific to what this story reveals, not generic. ("Technology takes time to adopt" is generic. "The solution's toxicity delayed mass adoption for thirty years — and the fix created an even bigger problem" is specific.) This beat is the intellectual payoff of the whole episode.
+- **Address the listener directly 2–3 times during the Built In** (not just in the CTA), particularly at moments of accumulated insight: "If you've been following along, you'll see exactly why this matters now." "Listeners, this is the part I want you to sit with for a minute."
+- **Cross-episode threading:** If this episode's story connects to anything the show has covered or plans to cover, weave it in here. Even a single sentence builds the show's universe over time: "This is the same dynamic we'll see when we get to [related topic]."
 - Before the final close, include a **listener callout**: naturally prompt the listener to follow the show wherever they listen, share it with someone who'd love this story, and check the show notes for sources and the people mentioned in the episode. This should feel organic to the conversation — not a jarring ad read.
 - End with the show's **signature sign-off** — the closing line that ends every episode. [Jeff and Cyrus will decide the exact wording; once confirmed, it will be added to `CLAUDE.md`. Until then, write a warm, fitting close and mark it `[FLAG: awaiting signature sign-off line]`.]
 
@@ -217,3 +273,11 @@ Place a segment break at the beginning and between major sections within the cha
 7. **Weak transitions.** If you just end one topic and start the next without scripted connective tissue, the episode will sound choppy.
 
 8. **Inventing facts.** If the research doesn't include a detail, don't make it up. Flag it.
+
+9. **Both hosts knowing everything equally.** If you can swap Jeff and Cyrus's labels and nothing changes, the knowledge division isn't working. The driving host should have clearly done more work on their wave's material.
+
+10. **Launching into anchor stories cold.** Every anchor story needs 1–2 sentences of setup from the driver — their reaction, their anticipation — before the scene begins. Skipping setup flattens the story's impact.
+
+11. **How It Works as monologue.** The mechanism explanation should be a dialogue with a real pushback, not one host teaching while the other nods. If the non-driving host doesn't raise a genuine objection, the section will sound like a lecture.
+
+12. **Rushing the Backbone Test.** Treating the five questions as a rapid-fire checklist wastes the whole episode's setup. Each question deserves room to breathe.

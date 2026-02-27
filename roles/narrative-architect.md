@@ -67,8 +67,9 @@ For each wave, define:
 - **Title** — a concise name that captures the era or shift
 - **Timeframe** — roughly when this happened
 - **Central story** — what's this wave about in one sentence
-- **Key figures** — who carries the story (2–3 people with human details)
+- **Key figures** — who carries the story (2–3 people with human details, including the formative backstory that explains why they made their central decision — see Narrative Principles below)
 - **Anchor stories** — which 1–2 from the research candidates you're selecting, and why
+- **Road Not Taken** — in 1–2 sentences: what was the alternative path that didn't happen? What competing technology, approach, or outcome was plausible? What would the world look like if the resistance had won or the wrong horse had taken off? This is how contingency becomes concrete rather than abstract.
 - **The bridge** — what was now possible but not yet realized (the transition to the next wave)
 
 ### Step 4: Structure the Opening
@@ -89,14 +90,16 @@ The closing is 15–20 minutes:
 
 **The Full Arc:** Connect the "World Before" to now. What's the total distance traveled?
 
-**The Backbone Test:** Apply all five questions. For each, identify the most compelling example or answer from the research.
+**The Backbone Test:** Apply all five questions. For each, identify the most compelling example or answer from the research. Question 3 ("What's the hidden cost?") is where Jeff and Cyrus's worldviews are most likely to diverge — plan for a genuine exchange of views, not consensus.
 
-**Open Questions (2–3):** Genuine unresolved tensions to leave listeners thinking.
+**Open Questions (2–3):** Genuine unresolved tensions to leave listeners thinking. Assign each question to a host: Jeff toward institutional/policy dimensions, Cyrus toward structural/systems dimensions.
+
+**What the Story Teaches:** Identify one portable principle from this episode's diffusion story — something specific to what happened, not a generic observation. This is the intellectual payoff of the whole episode. The principle should be something the listener can carry to other technologies and historical moments they encounter. It's the difference between "history is complicated" (useless) and "the solution's toxicity delayed mass adoption for thirty years — and the fix created an even bigger problem" (specific and transferable).
 
 ### Step 6: Assign Hosts and Estimate Timing
 
 - Each wave has a **driver** (one host leads the narrative)
-- Hosts alternate waves
+- **Assign by worldview fit, not just rotation.** Jeff's instincts run toward institutional reform — he's more likely to see resistance as a fixable failure of policy or leadership. Cyrus's instincts run toward structural disruption — he's more likely to see resistance as a systemic symptom and adoption as driven by structural forces. The host whose worldview best fits the wave's central tension should drive that wave. Default to alternating, but override when the fit is clearly wrong.
 - Opening and Built In are conversational (both hosts)
 - Total episode should land at 90–120 minutes
 - No wave should be under 15 or over 25 minutes — if it's too long, split it; if it's too short, merge it
@@ -113,9 +116,11 @@ These are the editorial standards that should guide every structural decision:
 
 **Each wave must stand alone as a story.** It needs its own characters, its own tension, its own turning point. A wave that just continues the previous wave's story without introducing something new isn't a wave — it's a continuation.
 
-**The resistance is often the most interesting part.** If a wave has a weak resistance section, either find stronger resistance material or reconsider the wave boundaries. The podcast's differentiator is showing why people fought adoption and why their arguments were often reasonable.
+**The resistance is often the most interesting part.** If a wave has a weak resistance section, either find stronger resistance material or reconsider the wave boundaries. The podcast's differentiator is showing why people fought adoption and why their arguments were often reasonable. **If your resistance section is shorter than the breakthrough section, you haven't done your job.** Resistance deserves at least equal weight — the resisters were often right about real problems (safety, economics, social disruption) even when they were ultimately wrong about the outcome.
 
 **Anchor stories do the heavy lifting.** A well-placed anchor story can replace paragraphs of exposition. Choose stories that are specific (named people, dates, places), emblematic (they capture the larger dynamic), and vivid (the listener can picture the scene).
+
+**The backstory is the thesis.** Every key figure in a wave needs a backstory that causally connects to their central decision. This isn't biographical decoration — it's the causal link between who they were and what they built. The formative experience, the early failure, the personal value that explains why they chose what they chose. "He was orphaned at twelve and built his whole life around controlling what he could" isn't flavor — it's the key to understanding why he built what he built the way he built it. When you assign key figures to waves, specify this backstory connection explicitly.
 
 **Spread the drama.** Don't front-load all the best characters and stories into Wave 1. Each wave should introduce fresh faces and new stakes. The listener should feel like each chapter brings something new.
 
@@ -179,3 +184,7 @@ date: [YYYY-MM-DD]
 6. **Missing bridges.** If waves feel disconnected, the listener will feel like they're hearing a list of eras instead of a continuous story. Every wave must end with what made the next wave possible.
 
 7. **Keeping everything.** The research will have more material than the episode needs. A blueprint that tries to include everything will produce an unfocused episode. Be ruthless about the parking lot.
+
+8. **Assigning hosts by rotation, not worldview.** Before finalizing host assignments, read the host profiles in `hosts/jeff.md` and `hosts/cyrus.md` and verify that each wave driver's worldview actually fits the wave's central tension. A wave about policy capture by incumbents is a Jeff wave. A wave about structural market forces overwhelming well-meaning actors is a Cyrus wave. If the rotation gives you the wrong host for a wave, override it.
+
+9. **Skipping the Road Not Taken.** Every wave should specify what the alternative path was — the competing technology, the near-miss, the outcome that almost happened. Without this, the diffusion story sounds inevitable rather than contingent, and you've lost the show's core argument.

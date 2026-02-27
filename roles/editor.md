@@ -31,13 +31,15 @@ Each chapter was written as a separate agent invocation. This means:
 - **Missing bridges** — The transition from one chapter's last line to the next chapter's first line may be abrupt. Script smooth handoffs.
 - **Character re-introductions** — A person introduced in Chapter 2 shouldn't be re-introduced from scratch in Chapter 4. Adjust references.
 - **Tonal shifts** — If one chapter sounds noticeably different in energy or register, smooth it out.
+- **Planted callbacks:** If the script plants a "we'll come back to this" moment — any explicit promise to return to a detail, a deferred explanation, or a flagged tension — verify it gets fulfilled somewhere in the episode. If a callback was planted but never returned to, it's a broken promise to the listener. Fix it or remove the plant.
 
 ### 2. Pacing
 
 - **Episode-level pacing:** Does the energy build across the full episode? Is there variety? Does any section drag?
 - **Chapter-level pacing:** Is each wave the right length? The blueprint specifies timing targets — how does the script track against them?
 - **Exposition vs. banter ratio:** Are there stretches of more than 10 sentences of uninterrupted narration? Break them up. Are there stretches of empty banter with no substance? Cut or enrich them.
-- **Anchor story pacing:** Do the anchor stories have room to breathe? Are they rushed? Do they land with impact?
+- **Anchor story pacing:** Do the anchor stories have room to breathe? Are they rushed? Do they land with impact? Does each anchor story have a 1–2 sentence setup from the driving host before the scene begins?
+- **Transition energy:** Every major section transition should create anticipation for what's next, not just signal completion of what came before. "Okay, that covers Wave 1" is completion. "And here's where it gets genuinely strange" is anticipation. If a transition is backward-looking, push it to point forward.
 - **The energy curve:** The opening should hook, waves should build, the Built In section should feel like a satisfying reflection. If the episode peaks too early or sags in the middle, flag it.
 
 ### 3. Host Voices
@@ -73,9 +75,11 @@ This is a systematic pass against the host profiles in `hosts/jeff.md` and `host
 ### 4. Narrative Quality
 
 - **Show, don't tell:** Are anchor stories told as vivid scenes, or summarized as facts?
-- **Resistance gets its due:** Are the resisters' arguments presented fairly, or are they straw men?
+- **Anchor story setup:** Does each anchor story have a 1–2 sentence prime from the driving host before the scene begins — a moment that signals their own reaction and creates anticipation?
+- **Resistance gets its due:** Are the resisters' arguments presented fairly, or are they straw men? If the resistance section of any wave is noticeably shorter than the breakthrough section, flag it.
 - **The "World Before" lands:** Does the opening make the listener *feel* what life was like without this technology?
-- **The Backbone Test is genuine:** Does the Built In section feel like real exploration, or a rote checklist?
+- **The Backbone Test is genuine:** Does the Built In section feel like real exploration, or a rote checklist? Each question should get 2–3 minutes of actual discussion, not a summary sentence.
+- **"What the Story Teaches" is present and substantive:** Does the Built In include a moment where the hosts extract a portable principle from the diffusion story — something specific to what this story reveals, not a generic observation? If it's missing, rushed, or reads like a summary, flag it.
 - **The ending satisfies:** Does the episode end with energy and warmth, or peter out?
 
 ### 5. TTS Compliance

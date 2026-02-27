@@ -94,6 +94,7 @@ date: [YYYY-MM-DD]
 ### What Changed
 **Immediate consequences:** [What people noticed right away]
 **Winners and losers:** [Specific names, industries, regions]
+**Road Not Taken:** [In 1–2 sentences: what was the alternative path that didn't happen? What would the world look like if the resistance had won or a competing technology had prevailed?]
 **Bridge to next wave:** [What was now possible but not yet realized?]
 
 ---
@@ -130,6 +131,7 @@ date: [YYYY-MM-DD]
 ### What Changed
 **Immediate consequences:** [What happened]
 **Winners and losers:** [Who]
+**Road Not Taken:** [The alternative path and what it would have meant]
 **Bridge to next wave:** [What tension carries forward?]
 
 ---
@@ -160,6 +162,7 @@ date: [YYYY-MM-DD]
 **Early adopters / Resisters / Enabling conditions / Tipping point**
 
 ### What Changed
+**Road Not Taken:** [The alternative path and what it would have meant]
 **Bridge to finale:** [How does this wave set up the Built In section?]
 
 ---
@@ -189,21 +192,26 @@ date: [YYYY-MM-DD]
 [What's still evolving? What does the next wave look like?]
 
 ### Open Questions
-**Question 1:** [An unresolved tension worth wondering about]
-**Question 2:** [A risk or limit we haven't solved]
+**Question 1:** [An unresolved tension worth wondering about] — *Driver: [Jeff/Cyrus — match to worldview]*
+**Question 2:** [A risk or limit we haven't solved] — *Driver: [Jeff/Cyrus]*
 **Question 3:** [The frontier — what's coming?] *(optional)*
+
+### What the Story Teaches
+**The portable principle:** [One specific lesson from this episode's diffusion story — not a generic observation, but something only this story could teach. What does this technology's adoption pattern reveal about how change happens?]
+
+**Driver:** [Jeff/Cyrus/both]
 
 ---
 
 ## Host Assignments
 
-| Section | Driver | Notes |
-|---------|--------|-------|
-| Opening | Both | |
-| Wave 1: [Title] | [Jeff/Cyrus] | [Why this host for this wave] |
-| Wave 2: [Title] | [Jeff/Cyrus] | [Why] |
-| Wave 3: [Title] | [Jeff/Cyrus] | [Why] |
-| Built In | Both | |
+| Section | Driver | Worldview Fit | Notes |
+|---------|--------|---------------|-------|
+| Opening | Both | | |
+| Wave 1: [Title] | [Jeff/Cyrus] | [Why this host's worldview fits this wave's tension] | |
+| Wave 2: [Title] | [Jeff/Cyrus] | [Why] | |
+| Wave 3: [Title] | [Jeff/Cyrus] | [Why] | |
+| Built In | Both | | |
 
 ---
 

@@ -82,25 +82,30 @@ Every episode follows this structure. All agents need this shared vocabulary.
 |---------|----------|-------|---------|
 | **OPENING: The Hook** | 12–18 min | Both | Cold open story, "By the Numbers" stats, "World Before," preview of waves |
 | **THE WAVES** (×2–4) | 15–25 min each | Alternate drivers | Each wave: Breakthrough → Diffusion & Resistance → What Changed |
-| **BUILT IN: The Big Picture** | 15–20 min | Both | Full arc, The Backbone Test, open questions |
+| **BUILT IN: The Big Picture** | 15–20 min | Both | Full arc, The Backbone Test, open questions, What the Story Teaches |
 
 ### What Each Wave Contains
-- **The Breakthrough** — 2–3 key people with vivid human details, the pivotal moment, failed attempts and near-misses
-- **Anchor Stories** — 1–2 specific, vivid, short-form narratives (named person, date, place) that capture larger dynamics in miniature. These are the hardest to find and the most valuable.
-- **How It Works** — In the wave that first introduces the core mechanism. Mental model + analogy, not engineering specs. 5 min max.
-- **Diffusion & Resistance** — Early adopters, resisters (their arguments were often reasonable), enabling conditions, the tipping point
-- **What Changed** — Immediate consequences, winners and losers, the bridge to the next wave (what's now possible but not yet realized)
+- **The Breakthrough** — 2–3 key people with vivid human details (including the backstory that explains *why* they made their central decision), the pivotal moment, failed attempts and near-misses
+- **Anchor Stories** — 1–2 specific, vivid, short-form narratives (named person, date, place) that capture larger dynamics in miniature. These are the hardest to find and the most valuable. Each anchor story is preceded by 1–2 sentences of host setup.
+- **How It Works** — In the wave that first introduces the core mechanism. Mental model + analogy, not engineering specs. 5 min max. Structured as dialogue: setup → mechanism → non-driving host pushback → resolution + concrete consequence.
+- **Diffusion & Resistance** — Early adopters, resisters (their arguments were often reasonable), enabling conditions, the tipping point. **Resistance gets equal time to the breakthrough — if it's shorter, the wave isn't done.**
+- **What Changed** — Immediate consequences, winners and losers, the Road Not Taken (what would the world look like if the resistance had won?), the bridge to the next wave
 
 ### The Backbone Test
 The show's signature closing framework, applied every episode:
 1. **Invisible?** — Has it become infrastructure you only notice when it fails?
 2. **What depends on it?** — Map the dependency chain
-3. **What's the hidden cost?** — Energy, labor, environment, inequality, fragility
+3. **What's the hidden cost?** — Energy, labor, environment, inequality, fragility. Jeff and Cyrus often disagree here — honor that tension.
 4. **Could we go back?** — How deep is the dependency?
 5. **What's next?** — What's still evolving behind the scenes?
 
+Each question gets 2–3 minutes of genuine discussion, not a summary sentence.
+
+### What the Story Teaches
+The Built In section closes with a portable principle from this episode's diffusion story — something specific to what happened, not a generic observation. This is the intellectual payoff of the whole episode and builds the show's identity over time. See the Narrative Architect and Script Writer roles for guidance.
+
 ### Host Division
-Each wave has a **driver** — one host leads the narrative, the other participates and reacts. Hosts alternate waves. Opening and Built In are conversational (both hosts).
+Each wave has a **driver** — one host leads the narrative, the other participates and reacts. **Hosts are assigned by worldview fit, not just rotation.** Jeff's instincts run toward institutional reform; Cyrus's toward structural disruption. The host whose analytical lens fits the wave's central tension should drive it. Opening and Built In are conversational (both hosts).
 
 ### Host Profiles
 Full personality profiles for each host are in `hosts/jeff.md` and `hosts/cyrus.md`. The Script Writer reads these before writing any dialogue. They define each host's background, communication style, areas of expertise, and how they interact with each other.
@@ -176,6 +181,7 @@ Each role file in `roles/` is a **complete task briefing** — an agent reads it
 - Agents communicate through **files**, not conversation — one agent's output is another's input
 - Flag conflicts or concerns with `[FLAG: ...]` markers in deliverables
 - The ⭐ system highlights the best material in research deliverables
+- `[MISSING PERSPECTIVE]` marks key voices with no accessible documented record — flag, don't fabricate
 
 **Scope boundaries matter.** Each role has an explicit "you are NOT responsible for" section. The Research Director doesn't make editorial decisions. The Script Writer doesn't fact-check. The Narrative Architect doesn't write scripts. Stay in your lane.
 
@@ -187,9 +193,11 @@ Each role file in `roles/` is a **complete task briefing** — an agent reads it
 
 ### Research
 - Cite every factual claim with a source
-- Flag uncertainty: `[VERIFY]` for claims needing verification, `[GAP]` for areas needing more research
+- Flag uncertainty: `[VERIFY]` for claims needing verification, `[GAP]` for areas needing more research, `[MISSING PERSPECTIVE]` for key voices with no accessible record
 - Highlight the best material with ⭐
 - Anchor stories are the highest-value research output — prioritize finding them
+- **The Road Not Taken** is as important as the breakthrough: find the competing paths, the near-misses, the alternatives that didn't win
+- Statistics need comparative anchors — always pair a number with a before/after, vs.-competitor, or per-person frame
 - Over-research. It's easier to cut than to discover gaps mid-script.
 
 ### Narrative

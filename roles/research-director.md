@@ -56,6 +56,8 @@ List sources in a table with: title/author, why it matters, priority (⭐ Best-a
 ### Scale & Impact
 Numbers that make someone stop and say "wait, really?" Current adoption, economic scale, physical scale, energy footprint. Make them tangible — per-person framing, historical comparisons, vivid analogies.
 
+**Framing technique:** Statistics land when they have comparative anchors. Pair every key stat with a before/after, a vs.-competitor, or a per-person frame. "Eight percent to eighty-five percent in fourteen years" is more powerful than either figure alone. "Fourteen hundred dollars per square foot versus a department store at four hundred" is more powerful than the standalone number. When you include a stat, ask: *compared to what?* Find the anchor that makes it tangible.
+
 Star the 3–5 best stats for the episode hook.
 
 ### The World Before
@@ -93,6 +95,19 @@ Look for:
 Table format: Who / Their Stake / Their Arguments / How They Fought / Outcome / Sources.
 
 Star the best resistance stories.
+
+### The Road Not Taken
+What was the alternative path that didn't happen? This is where Backbone's diffusion story gets its contingency argument — the claim that none of this was inevitable.
+
+For each major technology wave, find:
+- **The competing technology or approach** — what was the plausible alternative? (natural ice vs. mechanical refrigeration, steam vs. electric, etc.)
+- **Who was betting on the alternative** — companies, inventors, investors, institutions that backed the other path and what happened to them
+- **Why the winner won** — was it inevitable, or were there contingent factors? A key person, a lucky break, a regulatory decision, a timing accident?
+- **What the alternative world would have looked like** — if the resistance had succeeded or the competing path had won, what would be different today?
+
+This material feeds both the Resistance sections and the Open Questions, and it's what makes contingency concrete rather than rhetorical.
+
+Star the most revealing "road not taken" examples.
 
 ### Enabling Conditions
 Why did this technology take off *when* it did — not earlier, not later? What had to be true first?
@@ -275,6 +290,7 @@ You will encounter conflicting information, uncertain claims, and gaps. Handle t
 - **Flag single-source claims** explicitly with `[VERIFY]`.
 - **Distinguish AI training data from web-verified sources.** If you're drawing on your training data rather than a search result, note it. Training data can be outdated or wrong.
 - **Don't fill gaps with confident-sounding prose.** If you don't know, say so. A noted gap is infinitely more useful than a plausible-sounding fabrication.
+- **`[MISSING PERSPECTIVE]`** — Use when a key voice in the story has no accessible documented record. The pipeline cannot conduct primary interviews. If a key figure's perspective, motivations, or experience is undocumented in accessible sources, flag it explicitly rather than inferring or inventing. This is particularly important for living figures, recent history, and communities whose voices rarely appear in mainstream accounts. A missing perspective noted is far more useful than a fabricated one.
 
 ---
 
